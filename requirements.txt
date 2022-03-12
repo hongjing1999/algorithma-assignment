@@ -15,7 +15,7 @@ kivy-garden.graph==0.4.0
 kiwisolver==1.2.0
 lxml==4.5.1
 numpy==1.18.5
-Pillow==7.1.2
+Pillow==9.0.1
 plotly==4.8.1
 psutil==5.7.0
 Pygments==2.6.1
